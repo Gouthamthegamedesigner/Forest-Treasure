@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Forest Treasure.sln"
+    "dotnet.defaultSolution": "Forest-Treasure.sln"
 }
